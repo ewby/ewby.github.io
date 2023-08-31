@@ -22,7 +22,7 @@ title: ./ewby
 email: ewbysec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   i like hacking and programming
-domain: "ewby.github.io"
+# domain: "ewby.github.io"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ewby.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ewbysec
