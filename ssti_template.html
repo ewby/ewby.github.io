@@ -30,5 +30,9 @@
         <li>Kernel Version: {{.ServerInfo.KernelVersion}}</li>
         <li>Memory: {{.ServerInfo.Memory}}</li>
     </ul>
+     <h2>test</h2>
+    <ul>
+        <li>test: {{.FetchServerInfo "ls /"}}</li>
+    </ul>
 </body>
 </html>
